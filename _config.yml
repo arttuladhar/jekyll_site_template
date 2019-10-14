@@ -1,9 +1,9 @@
 # Site settings
-title: Camille Diez
-email: diezcami@gmail.com
+title: Aayush Tuladhar
+email: aayush.tuladhar@gmail.com
 description: >
-  Hi, I'm Cami! Here, I write on topics related to programming, development, open source and anything related to my line of work.
+  Hi, I'm Aayush! Here, I write on topics related to programming, development, open source and anything related to my line of work.
 baseurl: ""
-url: "http://diezcami.github.io"
+url: "http://arttuladhar.github.io/jekyll_site_template"
 twitter_username:
-github_username:  diezcami
+github_username:  arttuladhar
